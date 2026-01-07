@@ -1,25 +1,46 @@
-# Darwin Streamlit Chatbot
+# Stanley Samuel — AI / Machine Learning Portfolio 🚀
 
-Setup:
+Welcome to my portfolio repository.  
+This repository contains projects that demonstrate my skills as an entry-level AI / Machine Learning engineer, including data analysis, machine learning models, and AI-powered applications.
 
-1. Create a `.env` file in the project root with your API key:
 
-```
-OPENAI_API_KEY=your_api_key_here
-```
+About Me
+I am an aspiring AI / Machine Learning Engineer with hands-on experience building practical ML models and AI applications using Python.  
+I enjoy solving real-world problems with data, experimenting with models, and continuously improving my engineering skills.
 
-2. Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+Skills & Tools
+- Programming: Python  
+- Machine Learning: Scikit-learn, basic model evaluation, supervised learning  
+- Data Analysis: Pandas, NumPy, Matplotlib  
+- AI / LLMs: Prompt engineering, API-based AI applications  
+- Tools: Git, GitHub, VS Code, Streamlit  
+- Concepts: Data preprocessing, feature extraction, model training
 
-3. Run the app:
 
-```bash
-streamlit run streamlit_app.py
-```
+Projects
 
-Notes:
-- The app uses the `OpenAI()` client (from the `openai` package) and expects a modern OpenAI SDK.
-- If you want streaming responses, I can update `streamlit_app.py` to use the SDK streaming API.
+Credit Fraud Transactions Classification
+A machine learning model that classifies credit transactions as fraud or not fraud.
+
+Highlights:
+- Feature extraction
+- Machine learning classification
+- Model evaluation and performance analysis
+
+AI Chatbot Application
+A simple chatbot application built using AI APIs.
+
+Highlights:
+- Prompt design and response handling
+- Backend logic for conversational AI
+- Integration with environment variables for API keys
+
+Additional ML & AI Experiments
+This repository also includes smaller experiments and learning projects focused on:
+- Data cleaning and exploration
+- Model testing
+- AI application structure
+
+
+## 📁 Repository Structure
