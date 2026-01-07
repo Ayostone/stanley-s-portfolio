@@ -1,4 +1,4 @@
-# Stanley Samuel — AI / Machine Learning Portfolio 🚀
+Stanley Samuel — AI / Machine Learning Portfolio 
 
 Welcome to my portfolio repository.  
 This repository contains projects that demonstrate my skills as an entry-level AI / Machine Learning engineer, including data analysis, machine learning models, and AI-powered applications.
@@ -6,7 +6,7 @@ This repository contains projects that demonstrate my skills as an entry-level A
 
 About Me
 I am an aspiring AI / Machine Learning Engineer with hands-on experience building practical ML models and AI applications using Python.  
-I enjoy solving real-world problems with data, experimenting with models, and continuously improving my engineering skills.
+I enjoy solving real-world problems with data, experimenting with models. i am willig to continuously learn and improve my engineering skills.
 
 
 Skills & Tools
