@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_extras.let_it_rain import rain
 
 # Page config
-st.set_page_config(page_title="Alexandria stone, Will You Be My Valentine? 💖", page_icon="❤️")
+st.set_page_config(page_title="Will You Be My Valentine? 💖", page_icon="❤️")
 
 # Initialize session state
 if "step" not in st.session_state:
@@ -33,7 +33,7 @@ if st.session_state.step == "yes":
 
 # Normal pages
 st.markdown(
-    "<h1 style='text-align:center; color:#e6005c;'>Will you be my Valentine? 💌</h1>",
+    "<h1 style='text-align:center; color:#e6005c;'>Alexandria stone, Will you be my Valentine? 💌</h1>",
     unsafe_allow_html=True
 )
 
@@ -55,7 +55,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# ✅ STYLE ONLY THE YES BUTTON (stable selector)
+#  STYLE ONLY THE YES BUTTON (stable selector)
 st.markdown(f"""
 <style>
 button[data-testid="baseButton-primary"][id*="yes_btn"] {{
